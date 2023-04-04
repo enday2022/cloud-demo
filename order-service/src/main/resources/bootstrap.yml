@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: orderservice  #服务的名称
+  profiles:
+    active: dev  #在public环境下的dev环境里
+  cloud:
+    nacos:
+      server-addr: localhost:8849
+      config:
+        file-extension: yaml  #文件拓展名
+        group: enday
