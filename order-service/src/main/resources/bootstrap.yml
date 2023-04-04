@@ -9,3 +9,4 @@ spring:
       config:
         file-extension: yaml  #文件拓展名
         group: enday
+# 搞事情
