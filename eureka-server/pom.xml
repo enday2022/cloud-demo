@@ -23,5 +23,5 @@
             <artifactId>spring-cloud-starter-netflix-eureka-server</artifactId>
         </dependency>
     </dependencies>
-
+<!--测试github-->
 </project>
